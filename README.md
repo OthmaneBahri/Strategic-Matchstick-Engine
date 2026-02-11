@@ -22,8 +22,7 @@ The project demonstrates the application of **Game Theory** (Marienbad variant) 
 * **Visual Rendering:** Dynamic matchstick generation using the Python Turtle library.
 * **Game State Management:** Robust loop handling player turns, AI calculation, and win conditions.
 
-*(Insère ici une capture d'écran du jeu)*
-
+![Description](DemoAllumettes.png)
 ---
 
 ## 🇫🇷 Version Française
