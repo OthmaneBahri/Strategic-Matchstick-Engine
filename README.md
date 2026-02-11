@@ -43,5 +43,5 @@ Le projet démontre l'application de la **Théorie des Jeux** (variante Marienba
 ### Installation
 
 ```bash
-git clone [https://github.com/TonPseudo/Nim-Game-AI-Engine.git](https://github.com/OthmaneBahri/Strategic-Matchstick-Engine.git)
+git clone [https://github.com/OthmaneBahri/Strategic-Matchstick-Engine.git](https://github.com/OthmaneBahri/Strategic-Matchstick-Engine.git)
 python JeuAllumOrdiGagnant.py
