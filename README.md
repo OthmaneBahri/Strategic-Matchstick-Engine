@@ -21,6 +21,7 @@ The project demonstrates the application of **Game Theory** (Marienbad variant) 
 * **Perfect Information AI:** The algorithm calculates the "Winning Strategy" at every turn (Modulo arithmetic).
 * **Visual Rendering:** Dynamic matchstick generation using the Python Turtle library.
 * **Game State Management:** Robust loop handling player turns, AI calculation, and win conditions.
+* **Dynamic Gameplay:** Randomized matchsticks number and matchsticks withdrawal possibilites.
 
 ![Description](DemoAllumettes.png)
 ---
@@ -35,11 +36,12 @@ Le projet démontre l'application de la **Théorie des Jeux** (variante Marienba
 * **IA à Information Parfaite :** L'algorithme calcule la "Stratégie Gagnante" à chaque tour (Arithmétique modulaire).
 * **Rendu Visuel :** Génération dynamique des allumettes via la librairie Python Turtle.
 * **Gestion d'État :** Boucle de jeu robuste gérant les tours joueurs, les calculs de l'IA et les conditions de victoire.
+* **Nouvelle disposition de jeu :** Le nombre d'allumettes et le nombre d'allumettes à tirer est randomisé.
 
 ---
 
 ### Installation
 
 ```bash
-git clone [https://github.com/TonPseudo/Nim-Game-AI-Engine.git](https://github.com/TonPseudo/Nim-Game-AI-Engine.git)
-python main.py
+git clone [https://github.com/TonPseudo/Nim-Game-AI-Engine.git](https://github.com/OthmaneBahri/Strategic-Matchstick-Engine.git)
+python JeuAllumOrdiGagnant.py
